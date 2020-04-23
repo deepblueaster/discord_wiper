@@ -1,2 +1,2 @@
-# discord_wiper
+# Discord Message Removal Tool
 Wipe Discord Messages
